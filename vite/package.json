@@ -5,6 +5,7 @@
   "description": "A React clone of 2048 game",
   "main": "src/index.js",
   "scripts": {
+    "dev": "vite",
     "build": "npm run tsc && vite build",
     "start": "vite --host",
     "preview": "vite preview --port=3000 --host",

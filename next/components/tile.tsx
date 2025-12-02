@@ -7,7 +7,7 @@ import {
   tileCountPerDimension,
 } from "@/constants";
 import { Tile as TileProps } from "@/models/tile";
-import styles from "@/styles/tile.module.css";
+import styles from "./styles/tile.module.css";
 import usePreviousProps from "@/hooks/use-previous-props";
 
 export default function Tile({ position, value }: TileProps) {

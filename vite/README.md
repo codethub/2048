@@ -1,16 +1,7 @@
-## [React-2048]
+## [React-2048] Play to Earn
 
 A React implementation of game [2048]built with [Typescript](https://www.typescriptlang.org/) and 💅 [styled-components](https://styled-components.com)
 
-# 🔥 WARPUNK — AI-Fused Farcaster NFT Collection
-
-Transform your Farcaster PFP into a next‑generation **AI-generated Warpunk**, then mint it as an NFT on Base.
-
-<div align="center">
-  <img src="public/warpunk.png" width="220" />
-  <br/>
-  <strong>Genesis Collection • 2000 Supply • Powered by AI + On-chain Identity</strong>
-</div>
 
 ---
 
